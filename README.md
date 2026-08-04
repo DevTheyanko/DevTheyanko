@@ -75,10 +75,10 @@ Desarrollador enfocado en construir aplicaciones web y móviles sólidas, de pun
 
 <div align="center">
 
-<a href="mailto:TU_CORREO@ejemplo.com">
+<a href="mailto:jeancleal0302004@gmail.com">
   <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
-<a href="https://www.linkedin.com/in/TU_LINKEDIN">
+<a href="https://www.linkedin.com/in/jean-carlos-leal-guedez-5b5807253/">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 <a href="https://github.com/DevTheyanko">
