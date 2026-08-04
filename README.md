@@ -46,20 +46,7 @@ Desarrollador enfocado en construir aplicaciones web y móviles sólidas, de pun
 
 </div>
 
-<br>
 
-## Actividad reciente
-
-<div align="center">
-
-<!--START_SECTION:activity-->
-<!--END_SECTION:activity-->
-
-<!--</div>
-
-> Esta sección se actualiza sola automáticamente si activas la GitHub Action `github-readme-activity-graph` (te explico cómo abajo si la quieres).
-
-<br>-->
 
 ## Contribuciones
 
