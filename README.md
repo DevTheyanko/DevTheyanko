@@ -55,11 +55,11 @@ Desarrollador enfocado en construir aplicaciones web y móviles sólidas, de pun
 <!--START_SECTION:activity-->
 <!--END_SECTION:activity-->
 
-</div>
+<!--</div>
 
 > Esta sección se actualiza sola automáticamente si activas la GitHub Action `github-readme-activity-graph` (te explico cómo abajo si la quieres).
 
-<br>
+<br>-->
 
 ## Contribuciones
 
